@@ -88,3 +88,5 @@ Stand up developer-mode algod on ports 4001, 4002 and `tealdbg` on port 9392 (as
 Tear down and clean up resources for the developer-mode algod stood up above:
 
 * `docker-compose down`
+
+If you have some question in this project, feel free to reach out.
